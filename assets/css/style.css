@@ -14,8 +14,12 @@
 
     /* SIZE */
     --size-primary: 25px;
+    --size-half: calc(var(--size-primary) / 2);
+    --size-double: calc(var(--size-primary) * 2);
     --margin-primary: var(--size-primary);
     --padding-primary: var(--size-primary);
+    --padding-half: var(--size-half);
+    --padding-double: var(--size-double);
     --height-primary: 120px;
 
     /* BREAKPOINTS */
@@ -28,7 +32,7 @@
     }
 
     .navbar .navbar-nav .level-nav-link.nav-link {
-        padding: calc(var(--padding-primary) * 2) var(--padding-primary);
+        padding: var(--padding-double) var(--padding-primary);
     }
 }
 
@@ -40,4 +44,56 @@
 .navbar .navbar-nav .level-nav-link.nav-link:hover {
     background-color: var(--color-primary);
     color: white;
+}
+
+.hero {
+    background: url('../images/bg-img-1.jpg') no-repeat center center;
+    height: 515px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-form {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: var(--size-half);
+    padding: var(--padding-double) var(--padding-primary);
+}
+
+.form-group {
+    flex: 1 25%;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.form-group .form-control {
+    padding-left: var(--padding-double);
+    border-radius: 0;
+}
+
+.form-group i {
+    position: absolute;
+    font-size: var(--font-size-title);
+    color: var(--color-primary);
+    left: var(--size-half);
+}
+
+.btn-primary {
+    background-color: var(--color-primary);
+    border-radius: 0;
+    border: none;
+    width: 100%;
+    text-transform: uppercase;
+    font-weight: var(--font-bold);
+}
+
+.need-help {
+    background-color: white;
+    padding: 0 var(--padding-double) var(--padding-half);
+    font-size: .8rem;
 }

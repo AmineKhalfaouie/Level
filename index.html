@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Level</title>
-    <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -17,8 +16,11 @@
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
         crossorigin="anonymous"
     >
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 <body>
+    <!-- navbar section -->
     <nav class="navbar navbar-expand-md navbar-light bg-light">
         <div class="container">
           <a class="navbar-brand" href="#">
@@ -38,6 +40,80 @@
           </div>
         </div>
     </nav>
+
+    <!-- hero section -->
+     <div class="hero">
+        <div class="container">
+            <form action="index.html" class="search-form" method="get">
+                <div class="form-group" style="flex: 100%;">
+                  <i class="fa fa-map-marker"></i>
+                  <input type="text" class="form-control" placeholder="Type Your Destination">
+                </div>
+                <div class="form-group">
+                  <i class="fa fa-calendar"></i>
+                  <input type="text" class="form-control" id="CheckIn" placeholder="Check In">
+                </div>
+                <div class="form-group">
+                  <i class="fa fa-calendar"></i>
+                  <input type="text" class="form-control" id="CheckOut" placeholder="Check Out">
+                </div>
+                <div class="form-group">
+                  <i class="fa fa-bed"></i>
+                  <select class="form-control">
+                    <option value="">Rooms</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <i class="fa fa-user"></i>
+                  <select class="form-control">
+                    <option value="">Adults</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <i class="fa fa-user"></i>
+                  <select class="form-control">
+                    <option value="">Children</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                  </select>
+                </div>
+                <div class="form-group">
+                  <button type="submit" class="btn btn-primary">check</button>
+                </div>
+            </form>
+            <p class="need-help">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, minus?
+              <a href="#">Need help.</a>
+            </p>
+        </div>
+     </div>
     <script src="./assets/js/script.js"></script>
     <script
         src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
