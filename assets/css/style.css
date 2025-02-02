@@ -92,8 +92,36 @@
     font-weight: var(--font-bold);
 }
 
+.btn-primary:hover {
+    background-color: #c3343d;
+}
+
 .need-help {
     background-color: white;
     padding: 0 var(--padding-double) var(--padding-half);
     font-size: .8rem;
+}
+
+section {
+    padding: var(--padding-double) 0;
+}
+
+.section-color {
+    background-color: var(--color-primary);
+    color: white;
+}
+
+.section-title {font-size: var(--font-size-section-title);}
+.section-subtitle {font-size: var(--font-size-title);}
+
+.btn-white {
+    border: 2px solid white;
+    background-color: inherit;
+    color: white;
+    padding: var(--padding-half) var(--padding-primary);
+}
+
+.btn-white:hover {
+    background-color: white;
+    color: var(--color-primary);
 }
