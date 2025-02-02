@@ -134,3 +134,29 @@ section {
     width: 100%;
     height: var(--height-primary);
 }
+
+.article {
+    text-align: center;
+    margin-top: var(--size-double);
+    transition: all .2s ease-in;
+    color: var(--color-primary);
+    padding: var(--padding-primary);
+}
+
+.article:hover {
+    scale: 1.1;
+    box-shadow: 0 0 7px 0 var(--color-text);
+}
+
+.article-icon {
+    font-size: 4rem;
+    margin-bottom: var(--margin-primary);
+}
+
+.article p {
+    font-size: var(--font-size-title);
+}
+
+.btn-fit {
+    width: max-content;
+}
