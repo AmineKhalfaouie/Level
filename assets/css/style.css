@@ -3,6 +3,7 @@
     --color-primary: #ee5057;
     --color-secondary: #111;
     --color-text: #898989;
+    --color-light: #f4f4f4;
 
     /* FONTS */
     --font-primary: 'Open Sans', Helvetica, Arial, sans-serif;
@@ -17,6 +18,8 @@
     --size-half: calc(var(--size-primary) / 2);
     --size-double: calc(var(--size-primary) * 2);
     --margin-primary: var(--size-primary);
+    --margin-half: calc(var(--size-primary) / 2);
+    --margin-double: calc(var(--size-primary) * 2);
     --padding-primary: var(--size-primary);
     --padding-half: var(--size-half);
     --padding-double: var(--size-double);
@@ -159,4 +162,32 @@ section {
 
 .btn-fit {
     width: max-content;
+}
+
+/* SLIDER */
+.section-gray {
+    background-color: var(--color-light);
+}
+
+.level-slider-item {
+    background-color: white;
+    margin-right: var(--margin-half);
+}
+
+.level-slider-item img {
+    width: 100%;
+}
+
+.level-slider-item-container {
+    padding: var(--padding-primary);
+}
+
+.level-slider-item-container h3 {
+    font-size: var(--font-size-title);
+    color: var(--color-primary);
+}
+
+.level-slider-item-container p {
+    font-size: var(--font-size-text);
+    color: var(--color-text);
 }
