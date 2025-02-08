@@ -29,6 +29,11 @@
     --md: 768px;
 }
 
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 0px;
+}
+
 a {
     color: inherit;
     text-decoration: none;
@@ -54,7 +59,7 @@ a {
         align-items: center;
         display: flex;
     }
-    
+
     .video-control-play , .video-control-pause {
         color: white;
         font-size: var(--font-size-section-title);
@@ -74,10 +79,19 @@ a {
     padding-left: var(--padding-primary);
 }
 
+.navbar .navbar-nav .level-nav-link.nav-link.active,
 .navbar .navbar-nav .level-nav-link.nav-link:hover {
     background-color: var(--color-primary);
     color: white;
 }
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-brand h1 {margin: 0px;}
 
 .hero {
     background: url('../images/bg-img-1.jpg') no-repeat center center;
