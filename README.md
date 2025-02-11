@@ -1,2 +1,19 @@
 # Level Travel WebSite
-This project is a responsive travel agency website built using HTML, CSS, JavaScript, jQuery, Bootstrap, and Slick Carousel. It offers users a platform to search for travel destinations, explore services, discover recommended places, and contact the agency.  The design is modern and user-friendly, providing a seamless browsing experience across different devices.
+Ce projet est un site web d'agence de voyage dynamique et convivial, conçu pour offrir une expérience utilisateur optimale sur tous les appareils. Il permet aux utilisateurs de rechercher des destinations de voyage, d'explorer les services proposés par l'agence, de découvrir des lieux recommandés et de contacter facilement l'agence pour organiser leur voyage.
+
+## Technologies utilisées
+
+*   HTML
+*   CSS
+*   JavaScript
+*   jQuery
+*   Bootstrap
+*   Slick Carousel
+
+## Fonctionnalités clés
+
+*   Recherche de destinations
+*   Exploration des services
+*   Lieux recommandés
+*   Formulaire de contact
+*   Conception responsive
