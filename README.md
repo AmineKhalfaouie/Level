@@ -24,6 +24,7 @@ Ce projet est un site web d'agence de voyage dynamique et convivial, conçu pour
 
 ## Menu de Navigation
 https://github.com/user-attachments/assets/a2c18173-33a7-4209-a2a2-fa73fca1cd5f
+
 Le Menu de Navigation du site Level est un composant clé, conçu pour être à la fois élégant et fonctionnel. Il offre une navigation intuitive et responsive, s'adaptant parfaitement aux écrans desktop, tablette et mobile. Avec un logo et un titre alignés à gauche, des liens principaux (Search, Services, Recommand, Contact) à droite, et un bouton hamburger pour les mobiles, il garantit une expérience utilisateur fluide. Les effets de survol (hover) et les styles modernes, basés sur Bootstrap 5 et CSS personnalisé, en font un élément à la fois esthétique et performant.
 ## Section de Hero
 ## Carrousel/Slider
