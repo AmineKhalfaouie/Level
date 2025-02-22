@@ -12,4 +12,4 @@ Ce projet est un site web d'agence de voyage dynamique et convivial, conçu pour
 *   Slick Carousel
 
 ## Fonctionnalités Principales
-*  **Menu de Navigation Responsive :** Un menu de navigation qui s'adapte à tous les écrans, avec des liens vers les différentes sections du site.
+1.  **Menu de Navigation Responsive :** Un menu de navigation qui s'adapte à tous les écrans, avec des liens vers les différentes sections du site.
