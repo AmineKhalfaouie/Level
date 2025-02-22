@@ -11,12 +11,4 @@ Ce projet est un site web d'agence de voyage dynamique et convivial, conçu pour
 *   Bootstrap
 *   Slick Carousel
 
-## Fonctionnalités clés
-
-*   Recherche de destinations
-*   Exploration des services
-*   Lieux recommandés
-*   Formulaire de contact
-*   Conception responsive
-
-## Aperçu
+#Fonctionnalités Principales
