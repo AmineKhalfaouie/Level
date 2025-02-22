@@ -27,7 +27,12 @@ https://github.com/user-attachments/assets/a2c18173-33a7-4209-a2a2-fa73fca1cd5f
 
 Le Menu de Navigation du site Level est un composant clé, conçu pour être à la fois élégant et fonctionnel. Il offre une navigation intuitive et responsive, s'adaptant parfaitement aux écrans desktop, tablette et mobile. Avec un logo et un titre alignés à gauche, des liens principaux (Search, Services, Recommand, Contact) à droite, et un bouton hamburger pour les mobiles, il garantit une expérience utilisateur fluide. Les effets de survol (hover) et les styles modernes, basés sur Bootstrap 5 et CSS personnalisé, en font un élément à la fois esthétique et performant.
 ## Section de Hero
-## Carrousel/Slider
+https://github.com/user-attachments/assets/00362c8f-cfd2-4cd2-8287-8661c4c263ef
+
+La Section Hero  conçue pour captiver l'utilisateur. Avec un fond d'écran attrayant et un formulaire de recherche central, elle permet aux visiteurs de trouver rapidement des services ou des recommandations. Le design épuré, les polices modernes et la mise en page responsive en font un élément clé pour engager l'utilisateur dès son arrivée sur le site.
+## Section des Services
+https://github.com/user-attachments/assets/14dd6f56-0cdb-4a61-a8c1-5d8c7c6aad9d
+
 ## Lecteur Video
 ## Formulaire de Contact
 ## Carte Interactive
