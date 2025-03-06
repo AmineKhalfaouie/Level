@@ -1,38 +1,128 @@
-# Level Travel WebSite
+# Level - HTML Template
+
 ## Description
-Ce projet est un site web d'agence de voyage dynamique et convivial, conçu pour offrir une expérience utilisateur optimale sur tous les appareils. Il permet aux utilisateurs de rechercher des destinations de voyage, d'explorer les services proposés par l'agence, de découvrir des lieux recommandés et de contacter facilement l'agence pour organiser leur voyage.
-<img src="https://github.com/user-attachments/assets/a33f0412-3dfd-453d-9ccb-4f6f5195904f" width="1000">
+Level is a modern and responsive HTML template designed for travel and accommodation websites. It is built with **Bootstrap**, **jQuery**, and uses Google Fonts for a smooth and attractive user experience. The template includes features such as a search form, a carousel, a services section, an embedded video, and a Google Maps location feature.
 
-## Fonctionnalités Principales
-*  **Menu de Navigation Responsive :** Un menu de navigation qui s'adapte à tous les écrans, avec des liens vers les différentes sections du site.
-*  **Section Hero avec Formulaire de Recherche :** Une section d'accueil avec un fond d'écran attrayant et un formulaire de recherche pour trouver des services.
-*  **Carrousel (Slider) :** Un carrousel interactif pour afficher des éléments de contenu de manière dynamique.
-*  **Lecteur Vidéo Interactif :** Une section vidéo avec des contrôles pour jouer et mettre en pause la vidéo.
-*  **Section des Services :** Une section dédiée aux services offerts, avec des icônes et des descriptions.
-*  **Section des Lieux Recommandés :** Une liste de lieux recommandés avec des informations détaillées.
-*  **Formulaire de Contact :** Un formulaire de contact pour permettre aux utilisateurs de poser des questions ou de demander des informations supplémentaires.
-*  **Carte Interactive :** Une carte intégrée pour localiser des lieux ou des services.
-*  **Footer :** Un pied de page avec des informations de base et des liens utiles.
+---
 
-## Technologies utilisées
+## Images to Capture for Documentation & Testing
+To properly document and test this application, capture the following elements:
 
-*   HTML5
-*   CSS3
-*   JavaScript
-*   jQuery
-*   Bootstrap5
+### 1. **Homepage**
+- Navbar with logo and navigation links.
+- Search form with icons and input fields.
+- "We are here to help you" section with the subscription button.
 
-## Menu de Navigation
-https://github.com/user-attachments/assets/a2c18173-33a7-4209-a2a2-fa73fca1cd5f
+### 2. **Services Section**
+- Three service articles with icons, titles, descriptions, and buttons.
 
-Le Menu de Navigation du site Level est un composant clé, conçu pour être à la fois élégant et fonctionnel. Il offre une navigation intuitive et responsive, s'adaptant parfaitement aux écrans desktop, tablette et mobile. Avec un logo et un titre alignés à gauche, des liens principaux (Search, Services, Recommand, Contact) à droite, et un bouton hamburger pour les mobiles, il garantit une expérience utilisateur fluide. Les effets de survol (hover) et les styles modernes, basés sur Bootstrap 5 et CSS personnalisé, en font un élément à la fois esthétique et performant.
-## Section de Hero
-https://github.com/user-attachments/assets/00362c8f-cfd2-4cd2-8287-8661c4c263ef
+### 3. **Carousel Section**
+- The carousel with at least two slides visible.
+- Navigation buttons (dots) under the carousel.
 
-La Section Hero  conçue pour captiver l'utilisateur. Avec un fond d'écran attrayant et un formulaire de recherche central, elle permet aux visiteurs de trouver rapidement des services ou des recommandations. Le design épuré, les polices modernes et la mise en page responsive en font un élément clé pour engager l'utilisateur dès son arrivée sur le site.
-## Section des Services
-https://github.com/user-attachments/assets/14dd6f56-0cdb-4a61-a8c1-5d8c7c6aad9d
+### 4. **Recommended Places Section**
+- Four recommended places (Europe, Asia, Africa, America) with images and titles.
 
-## Lecteur Video
-## Formulaire de Contact
-## Carte Interactive
+### 5. **Video Section**
+- The embedded video with play/pause controls.
+- Video overlay with control icons.
+
+### 6. **Contact Section**
+- Google Maps location.
+- Contact form with input fields and submit button.
+
+### 7. **Footer**
+- Footer with copyright text and credit link.
+
+---
+
+## Installation Guide
+Follow these steps to install and test the site locally:
+
+### 1. Prerequisites
+- A code editor (e.g., [Visual Studio Code](https://code.visualstudio.com/)).
+- A modern web browser (Chrome, Firefox, Edge, etc.).
+- An internet connection (to load external dependencies like Bootstrap, jQuery, etc.).
+
+### 2. Download the Project
+1. Clone this repository or download the ZIP file:
+   ```bash
+   git clone https://github.com/your-username/level-html-template.git
+   ```
+2. Extract the ZIP file (if downloaded) and open the folder in your code editor.
+
+### 3. File Structure
+Ensure the project files are structured as follows:
+```
+level-html-template/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   │   ├── logo.png
+│   │   ├── bg-img-1.jpg
+│   │   ├── img-01.jpg
+│   │   ├── img-02.jpg
+│   │   ├── tn-img-01.jpg
+│   │   ├── tn-img-02.jpg
+│   │   ├── tn-img-03.jpg
+│   │   └── tn-img-04.jpg
+│   └── videos/
+│       └── video.mp4
+├── index.html
+└── README.md
+```
+
+### 4. Install Dependencies
+This project uses external dependencies such as Bootstrap, jQuery, and Slick Carousel. They are loaded via CDNs, so no additional installation is required. However, ensure you have an internet connection for them to load properly.
+
+### 5. Run the Site
+1. Open the `index.html` file in your browser.
+2. Navigate through the different sections to verify functionality:
+   - Test the search form.
+   - Check if the carousel works.
+   - Play the video and test the controls.
+   - Try the contact form (note: it won’t function without a backend).
+
+### 6. Customization
+- Replace images in `assets/images/` with your own.
+- Modify text in `index.html` to match your content.
+- Adjust styles in `assets/css/style.css` to change colors and layouts.
+
+---
+
+## Testing Guide
+### 1. **Navbar**
+- Ensure navigation links work and lead to the correct sections.
+- Test the responsive menu by resizing the browser window.
+
+### 2. **Search Form**
+- Test input fields (destination, dates, rooms, adults, children).
+- Verify that the "Check" button is clickable.
+
+### 3. **Carousel**
+- Confirm slides change automatically and manually (by clicking on navigation dots).
+
+### 4. **Video Section**
+- Test play/pause controls.
+- Ensure the overlay disappears when playing the video.
+
+### 5. **Contact Form**
+- Test input fields (name, email, subject, message).
+- Check that the "Send Message Now" button is clickable.
+
+### 6. **Google Maps**
+- Ensure the map is interactive (zoom, move around).
+
+---
+
+## Author
+This template was created by **Amine Kh.**.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+---
+
+By following this guide, you can easily install, test, and customize this HTML template for your project.
+
