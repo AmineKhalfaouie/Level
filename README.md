@@ -2,17 +2,13 @@
 
 ## Description
 Level is a modern and responsive HTML template designed for travel and accommodation websites. It is built with **Bootstrap**, **jQuery**, and uses Google Fonts for a smooth and attractive user experience. The template includes features such as a search form, a carousel, a services section, an embedded video, and a Google Maps location feature.
-
+![image](https://github.com/user-attachments/assets/8dda93b0-de2d-4b11-bfff-00a0d7f8b487)
 ---
-
-## Images to Capture for Documentation & Testing
-To properly document and test this application, capture the following elements:
 
 ### 1. **Homepage**
 - Navbar with logo and navigation links.
 - Search form with icons and input fields.
 - "We are here to help you" section with the subscription button.
-![image](https://github.com/user-attachments/assets/8dda93b0-de2d-4b11-bfff-00a0d7f8b487)
 
 ### 2. **Services Section**
 - Three service articles with icons, titles, descriptions, and buttons.
@@ -48,7 +44,7 @@ Follow these steps to install and test the site locally:
 ### 2. Download the Project
 1. Clone this repository or download the ZIP file:
    ```bash
-   git clone https://github.com/your-username/level-html-template.git
+   git clone https://github.com/AmineKhalfaouie/level-html-template.git
    ```
 2. Extract the ZIP file (if downloaded) and open the folder in your code editor.
 
