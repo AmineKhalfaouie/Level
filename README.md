@@ -44,7 +44,7 @@ Follow these steps to install and test the site locally:
 ### 2. Download the Project
 1. Clone this repository or download the ZIP file:
    ```bash
-   git clone https://github.com/AmineKhalfaouie/level-html-template.git
+   git clone https://github.com/AmineKhalfaouie/Level.git
    ```
 2. Extract the ZIP file (if downloaded) and open the folder in your code editor.
 
