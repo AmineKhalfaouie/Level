@@ -12,8 +12,7 @@ To properly document and test this application, capture the following elements:
 - Navbar with logo and navigation links.
 - Search form with icons and input fields.
 - "We are here to help you" section with the subscription button.
-https://github.com/user-attachments/assets/1b83866f-7a0e-4fcc-bafb-232c71bec942
-
+![image](https://github.com/user-attachments/assets/8dda93b0-de2d-4b11-bfff-00a0d7f8b487)
 
 ### 2. **Services Section**
 - Three service articles with icons, titles, descriptions, and buttons.
