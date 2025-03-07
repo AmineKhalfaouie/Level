@@ -114,10 +114,7 @@ This project uses external dependencies such as Bootstrap, jQuery, and Slick Car
 ---
 
 ## Author
-This template was created by **Amine Kh.**.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This template was created by **Amine Khalfaoui.**.
 
 ---
 
