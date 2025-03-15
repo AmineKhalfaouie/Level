@@ -26,10 +26,10 @@ This travel agency app, named Level, is a static website project crafted to deli
 - **Bootstrap CSS (Styling)**
 
 ## 🛠 Features
-👉 Browse All Movies: Explore a wide range of movies available on the platform.</br>
-👉 Search Movies: Easily search for specific movies using a search function.</br>
-👉 Trending Movies Algorithm: Displays trending movies based on a dynamic algorithm.</br>
-👉 Modern UI/UX: A sleek and user-friendly interface designed for a great experience.</br>
+👉 Browse All Movies: Explore a wide range of movies available on the platform.</br></br>
+👉 Search Movies: Easily search for specific movies using a search function.</br></br>
+👉 Trending Movies Algorithm: Displays trending movies based on a dynamic algorithm.</br></br>
+👉 Modern UI/UX: A sleek and user-friendly interface designed for a great experience.</br></br>
 👉 Responsiveness: Fully responsive design that works seamlessly across devices.</br>
 
 and many more, including code architecture and reusability
