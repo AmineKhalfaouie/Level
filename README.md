@@ -17,18 +17,18 @@
 6. 🖼 [Assets](#assets)
 7. 📌 [More](#more)
 
-## 🤖 Introduction
 <a id="introduction"></a>
+## 🤖 Introduction
 This travel agency app, named Level, is a static website project crafted to deliver a sleek and modern user experience for exploring and discovering destinations around the world. The user interface is built using **HTML, CSS, and JavaScript**, enhanced with **jQuery** for interactive features such as sliding images via the **Slick Carousel** and date selection using the **Datepicker** plugin. The design is further polished with **Bootstrap**, ensuring a responsive and visually appealing layout. Level is designed to provide users with an intuitive and engaging platform for browsing travel destinations seamlessly.
 
-## 🔧 Tech Stack
 <a id="tech-stack"></a>
+## 🔧 Tech Stack
 - **JavaScript**
 - **Jquery**
 - **Bootstrap CSS (Styling)**
 
-## 🛠 Features
 <a id="features"></a>
+## 🛠 Features
 👉 **Navigation Menu :** Smooth scrolling to different sections (e.g., Search, Services, Recommended Places, Contact).</br></br>
 👉 **Search Form :** Form fields are styled with Font Awesome icons for better visual appeal.</br></br>
 👉 **Video Section :** Users can play or pause the video using Font Awesome icons.</br></br>
