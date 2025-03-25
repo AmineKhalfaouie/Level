@@ -36,9 +36,10 @@ This travel agency app, named Level, is a static website project crafted to deli
 
 and many more, including code architecture and reusability
 
-##🚀 Quick Start
+<a id="quick-start"></a>
+## 🚀 Quick Start
 Follow these steps to set up the project locally on your machine.
 
-Prerequisites
+**Prerequisites**
 
 Make sure you have the following installed on your machine:
