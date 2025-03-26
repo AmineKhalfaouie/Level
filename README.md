@@ -43,3 +43,9 @@ Follow these steps to set up the project locally on your machine.
 **Prerequisites**
 
 Make sure you have the following installed on your machine:
+- **[VS Code](https://code.visualstudio.com/download)**
+- **[Git](https://git-scm.com/)**
+- **[Modern web browser] (Chrome, Firefox, Safari, Edge)**
+**Clone the repository**
+``git clone https://github.com/your-username/level-travel-website.git
+cd level-travel-website``
