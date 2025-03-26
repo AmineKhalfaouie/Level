@@ -59,7 +59,8 @@ npm install bootstrap jquery jquery-ui slick-carousel font-awesome
 ## 🕸️ Snippets
 <details>
 <summary>index.css</summary>
-```:root {
+```css
+  :root {
     /* COLORS */
     --color-primary: #ee5057;
     --color-secondary: #111;
