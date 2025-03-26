@@ -56,11 +56,13 @@ For development, you may want to install dependencies locally instead of using C
 ```bash
 npm install bootstrap jquery jquery-ui slick-carousel font-awesome
 ```
-## 🕸️ Snippets
+## 🕸️ CSS Snippets
+
 <details>
-<summary>index.css</summary>
+<summary>View Full CSS Code</summary>
+
 ```css
-  :root {
+:root {
     /* COLORS */
     --color-primary: #ee5057;
     --color-secondary: #111;
@@ -400,5 +402,4 @@ section {
 .footer a {
     color: var(--color-primary);
 }
-```
-</details>
+</details> ```
