@@ -57,4 +57,10 @@ For development, you may want to install dependencies locally instead of using C
 npm install bootstrap jquery jquery-ui slick-carousel font-awesome
 ```
 ## 🕸️ Snippets
-- [index.css](./assets/css/style.css)
+```css
+/* Click to view full file: [index.css](./assets/css/style.css) */
+:root {
+  --color-primary: #ee5057;
+  --color-secondary: #111;
+  /* ... more sample code ... */
+}
