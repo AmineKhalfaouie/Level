@@ -58,8 +58,8 @@ npm install bootstrap jquery jquery-ui slick-carousel font-awesome
 ```
 ## 🕸️ CSS Snippets
 
-<details style="background: #f6f8fa; border-radius: 6px; padding: 10px; border: 1px solid #d1d5da; margin-bottom: 15px;">
-<summary style="font-weight: bold; cursor: pointer;>View Full CSS Cod</summary>
+<details >
+<summary style="background: #f6f8fa; border-radius: 6px; padding: 10px; border: 1px solid #d1d5da; margin-bottom: 15px;cursor: pointer;">View Full CSS Cod</summary>
 
 ```css
 :root {
