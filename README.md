@@ -13,7 +13,7 @@
 2. 🔧 [Tech Stack](#tech-stack)
 3. 🛠 [Features](#features)
 4. 🚀 [Quick Start](#quick-start)
-5. 💻 [Snippets (Code to Copy)](#snippets)
+5. 🕸️ [Snippets (Code to Copy)](#snippets)
 6. 🖼 [Assets](#assets)
 7. 📌 [More](#more)
 
@@ -50,5 +50,11 @@ Make sure you have the following installed on your machine:
 ```bash
 git clone https://github.com/your-username/level-travel-website.git
 cd level-travel-website
-
+```
 **Installation**
+For development, you may want to install dependencies locally instead of using CDNs:
+```bash
+npm install bootstrap jquery jquery-ui slick-carousel font-awesome
+```
+## 🕸️ Snippets
+- [index.css](./assets/css/style.css)
