@@ -402,4 +402,5 @@ section {
 .footer a {
     color: var(--color-primary);
 }
-</details> ```
+ ```
+</details>
