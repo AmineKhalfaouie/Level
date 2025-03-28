@@ -48,8 +48,8 @@ Make sure you have the following installed on your machine:
 - **[Modern web browser](#) (Chrome, Firefox, Safari, Edge)**
 **Clone the repository**
 ```bash
-git clone https://github.com/your-username/level-travel-website.git
-cd level-travel-website
+git clone https://github.com/AmineKhalfaouie/Level.git
+cd Level
 ```
 **Installation**
 For development, you may want to install dependencies locally instead of using CDNs:
